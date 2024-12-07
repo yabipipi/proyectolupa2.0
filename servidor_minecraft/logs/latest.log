@@ -394,3 +394,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [07Dec2024 08:56:24.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
 [07Dec2024 08:56:52.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <imtokkie> ola
 [07Dec2024 08:59:46.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: imtokkie has made the advancement [Hunt and Gather]
+[07Dec2024 09:19:32.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BenyaMoulain lost connection: Disconnected
+[07Dec2024 09:19:32.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain left the game
+[07Dec2024 09:19:32.414] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BenyaMoulain
+[07Dec2024 09:23:25.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: imtokkie has made the advancement [Diamonds!]

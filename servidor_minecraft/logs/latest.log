@@ -398,3 +398,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [07Dec2024 09:19:32.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain left the game
 [07Dec2024 09:19:32.414] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BenyaMoulain
 [07Dec2024 09:23:25.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: imtokkie has made the advancement [Diamonds!]
+[07Dec2024 09:29:49.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: imtokkie lost connection: Disconnected
+[07Dec2024 09:29:49.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: imtokkie left the game
+[07Dec2024 09:29:49.270] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client imtokkie
+[07Dec2024 09:30:36.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pexos lost connection: Disconnected
+[07Dec2024 09:30:36.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos left the game
+[07Dec2024 09:30:36.262] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pexos

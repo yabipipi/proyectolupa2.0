@@ -377,3 +377,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [07Dec2024 08:36:26.765] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pexos (18)
 [07Dec2024 08:36:26.767] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pexos
 [07Dec2024 08:42:32.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain was blown up by Creeper
+[07Dec2024 08:48:14.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain has made the advancement [Take Aim]
+[07Dec2024 08:48:14.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain was shot by Skeleton
+[07Dec2024 08:52:00.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: imtokkie[/127.206.185.44:33027] logged in with entity id 23719 at (826.8956372592974, 73.0, -518.8685438230725)
+[07Dec2024 08:52:00.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: imtokkie joined the game
+[07Dec2024 08:52:01.157] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of imtokkie (18)
+[07Dec2024 08:52:01.158] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to imtokkie
+[07Dec2024 08:53:57.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind

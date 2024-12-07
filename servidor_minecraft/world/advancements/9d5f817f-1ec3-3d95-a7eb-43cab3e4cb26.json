@@ -11529,15 +11529,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-12-07 08:21:36 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2024-12-07 08:26:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+  "alexscaves:alexscaves/discover_candy_cavity": {
     "criteria": {
-      "has_mangrove_roots": "2024-12-07 08:21:36 +0000"
+      "discover": "2024-12-07 08:32:45 +0000"
     },
     "done": true
   },

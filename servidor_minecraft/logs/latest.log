@@ -365,3 +365,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [07Dec2024 08:29:41.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [07Dec2024 08:30:10.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
 [07Dec2024 08:32:45.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos has reached the goal [Pure Imagination]
+[07Dec2024 08:35:24.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pexos lost connection: Disconnected
+[07Dec2024 08:35:24.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos left the game
+[07Dec2024 08:35:24.070] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pexos
+[07Dec2024 08:35:43.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain burned to death
+[07Dec2024 08:36:16.709] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1ad86bf5[id=<null>,name=pexos,properties={},legacy=false] (/127.49.250.224:35385): Took too long to log in
+[07Dec2024 08:36:16.711] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ad86bf5[id=<null>,name=pexos,properties={},legacy=false] (/127.49.250.224:35385) lost connection: Took too long to log in
+[07Dec2024 08:36:16.760] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Dec2024 08:36:25.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pexos[/127.49.250.224:48539] logged in with entity id 15263 at (144.97288762095832, 66.0, -405.712902378935)
+[07Dec2024 08:36:25.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos joined the game
+[07Dec2024 08:36:26.765] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pexos (18)
+[07Dec2024 08:36:26.767] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pexos
+[07Dec2024 08:42:32.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain was blown up by Creeper

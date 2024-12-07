@@ -353,3 +353,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [07Dec2024 08:22:35.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: imtokkie lost connection: Disconnected
 [07Dec2024 08:22:35.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: imtokkie left the game
 [07Dec2024 08:22:35.272] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client imtokkie
+[07Dec2024 08:23:16.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[07Dec2024 08:23:29.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pexos) moved wrongly! 0.293966481473376
+[07Dec2024 08:23:29.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pexos) moved wrongly! 0.35481639480542526
+[07Dec2024 08:23:37.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[07Dec2024 08:23:54.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2294ms or 45 ticks behind
+[07Dec2024 08:24:43.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[07Dec2024 08:25:02.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4007ms or 80 ticks behind
+[07Dec2024 08:25:19.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
+[07Dec2024 08:26:24.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos has made the advancement [Chompy]
+[07Dec2024 08:29:41.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[07Dec2024 08:30:10.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[07Dec2024 08:32:45.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos has reached the goal [Pure Imagination]

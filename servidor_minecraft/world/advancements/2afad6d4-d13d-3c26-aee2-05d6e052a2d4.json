@@ -1502,6 +1502,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-01 09:18:34 +0000",
       "cooked_mutton": "2024-12-01 06:49:49 +0000",
+      "potato": "2024-12-07 09:11:46 +0000",
       "melon_slice": "2024-10-30 04:07:37 +0000",
       "carrot": "2024-10-30 03:51:10 +0000"
     },
@@ -6975,6 +6976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-07 09:11:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2024-12-07 08:58:19 +0000"
@@ -6993,6 +7000,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-07 09:06:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-12-07 09:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-07 09:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-07 09:07:34 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/cornered_cobweb": {
     "criteria": {
       "has_planks": "2024-12-07 08:58:22 +0000"
@@ -7002,6 +7033,24 @@
   "mcwholidays:recipes/spooky_cobweb": {
     "criteria": {
       "has_planks": "2024-12-07 08:58:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-12-07 09:11:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 09:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-07 09:06:03 +0000"
     },
     "done": true
   },
@@ -7029,9 +7078,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-07 09:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-07 09:11:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2024-12-07 08:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-07 09:07:34 +0000"
     },
     "done": true
   },
@@ -7044,6 +7111,12 @@
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2024-12-07 08:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-07 09:11:26 +0000"
     },
     "done": true
   },
@@ -7068,6 +7141,12 @@
   "mcwholidays:recipes/outlined_cobweb": {
     "criteria": {
       "has_planks": "2024-12-07 08:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-07 09:07:34 +0000"
     },
     "done": true
   },
@@ -7113,9 +7192,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_the_recipe": "2024-12-07 09:12:16 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/triangle_cobweb": {
     "criteria": {
       "has_planks": "2024-12-07 08:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-07 09:11:26 +0000"
     },
     "done": true
   },
@@ -7131,9 +7222,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-07 09:07:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2024-12-07 08:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-07 09:07:34 +0000"
     },
     "done": true
   },

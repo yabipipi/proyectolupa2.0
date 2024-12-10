@@ -386,3 +386,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [10Dec2024 01:54:20.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thefuuu1 lost connection: Disconnected
 [10Dec2024 01:54:20.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 left the game
 [10Dec2024 01:54:20.655] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client thefuuu1
+[10Dec2024 02:07:33.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pexos lost connection: Disconnected
+[10Dec2024 02:07:33.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos left the game
+[10Dec2024 02:07:33.577] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pexos
+[10Dec2024 02:07:47.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pexos[/127.84.230.89:59149] logged in with entity id 34154 at (779.9639454713143, 69.0, -432.89698968718426)
+[10Dec2024 02:07:47.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos joined the game
+[10Dec2024 02:07:48.064] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pexos (18)
+[10Dec2024 02:07:48.065] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pexos

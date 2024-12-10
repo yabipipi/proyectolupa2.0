@@ -11896,21 +11896,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
-      "has_potato": "2024-12-10 01:46:26 +0000"
+      "ex": "2024-12-10 01:09:45 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
-      "has_item": "2024-12-10 01:42:34 +0000"
+      "leafcutter_ant_pupa": "2024-12-10 01:10:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
+    "criteria": {
+      "has_birch_leaves": "2024-12-10 01:28:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_hedge": {
+    "criteria": {
+      "has_leaves": "2024-12-10 01:28:31 +0000"
     },
     "done": true
   },
   "botania:recipes/tools/virus_nullodermal": {
     "criteria": {
       "has_alt_item": "2024-12-10 01:32:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2024-12-10 01:42:34 +0000"
     },
     "done": true
   },
@@ -11926,21 +11944,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/baking/baked_potato": {
-    "criteria": {
-      "has_ingredient": "2024-12-10 01:46:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-10 01:42:34 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/heating/baked_potato": {
-    "criteria": {
-      "has_ingredient": "2024-12-10 01:46:26 +0000"
     },
     "done": true
   },
@@ -11953,18 +11959,6 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-12-10 01:42:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-10 01:46:26 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
-    "criteria": {
-      "leafcutter_ant_pupa": "2024-12-10 01:10:09 +0000"
     },
     "done": true
   },
@@ -11986,27 +11980,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2024-12-10 01:46:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-10 01:42:34 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
-    "criteria": {
-      "has_birch_leaves": "2024-12-10 01:28:31 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
-    "criteria": {
-      "ex": "2024-12-10 01:09:45 +0000"
     },
     "done": true
   },
@@ -12022,15 +11998,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
       "has_potato": "2024-12-10 01:46:26 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/birch_hedge": {
+  "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
-      "has_leaves": "2024-12-10 01:28:31 +0000"
+      "has_ingredient": "2024-12-10 01:46:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-12-10 01:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-10 01:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-10 01:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-10 01:46:26 +0000"
     },
     "done": true
   },

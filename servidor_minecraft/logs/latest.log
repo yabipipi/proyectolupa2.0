@@ -309,3 +309,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [10Dec2024 00:22:11.002] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [10Dec2024 00:22:11.011] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [10Dec2024 00:22:11.019] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[10Dec2024 00:45:50.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: imtokkie[/127.206.185.44:33611] logged in with entity id 257 at (828.3576862053344, 67.5625, -500.63482310246656)
+[10Dec2024 00:45:50.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: imtokkie joined the game
+[10Dec2024 00:45:52.468] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of imtokkie (18)
+[10Dec2024 00:45:52.471] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to imtokkie
+[10Dec2024 00:45:54.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind

@@ -349,3 +349,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [10Dec2024 01:22:52.083] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of thefuuu1 (18)
 [10Dec2024 01:22:52.084] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to thefuuu1
 [10Dec2024 01:23:43.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain was slain by Ghost
+[10Dec2024 01:26:14.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: imtokkie has reached the goal [Plant Food]
+[10Dec2024 01:26:54.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: imtokkie lost connection: Disconnected
+[10Dec2024 01:26:54.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: imtokkie left the game
+[10Dec2024 01:26:54.301] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client imtokkie
+[10Dec2024 01:31:21.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thefuuu1 lost connection: Disconnected
+[10Dec2024 01:31:21.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 left the game
+[10Dec2024 01:31:21.613] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client thefuuu1
+[10Dec2024 01:31:34.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thefuuu1[/127.152.208.13:53991] logged in with entity id 19127 at (904.6999999880791, 13.0, -351.7566674692645)
+[10Dec2024 01:31:34.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 joined the game
+[10Dec2024 01:31:34.829] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of thefuuu1 (18)
+[10Dec2024 01:31:34.830] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to thefuuu1
+[10Dec2024 01:32:05.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[10Dec2024 01:32:28.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7750ms or 155 ticks behind
+[10Dec2024 01:32:47.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola tonotos

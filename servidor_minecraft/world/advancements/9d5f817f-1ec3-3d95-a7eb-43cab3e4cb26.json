@@ -11902,9 +11902,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
+    "criteria": {
+      "has_birch_leaves": "2024-12-10 01:28:31 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
       "ex": "2024-12-10 01:09:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_hedge": {
+    "criteria": {
+      "has_leaves": "2024-12-10 01:28:31 +0000"
     },
     "done": true
   },

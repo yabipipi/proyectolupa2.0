@@ -9158,5 +9158,17 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
+    "criteria": {
+      "has_birch_leaves": "2024-12-10 01:44:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_hedge": {
+    "criteria": {
+      "has_leaves": "2024-12-10 01:44:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

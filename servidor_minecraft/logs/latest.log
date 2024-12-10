@@ -372,3 +372,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [10Dec2024 01:44:17.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thefuuu1 lost connection: Disconnected
 [10Dec2024 01:44:17.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 left the game
 [10Dec2024 01:44:17.893] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client thefuuu1
+[10Dec2024 01:44:49.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thefuuu1[/127.152.208.13:40591] logged in with entity id 26520 at (795.0795461854705, 70.0, -509.9575819707843)
+[10Dec2024 01:44:49.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 joined the game
+[10Dec2024 01:44:49.843] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of thefuuu1 (18)
+[10Dec2024 01:44:49.844] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to thefuuu1
+[10Dec2024 01:52:30.105] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BenyaMoulain lost connection: Disconnected
+[10Dec2024 01:52:30.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain left the game
+[10Dec2024 01:52:30.107] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BenyaMoulain
+[10Dec2024 01:53:36.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BenyaMoulain[/127.238.103.39:56319] logged in with entity id 29744 at (826.5, 66.90075000003563, -481.5)
+[10Dec2024 01:53:36.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain joined the game
+[10Dec2024 01:53:41.980] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BenyaMoulain (18)
+[10Dec2024 01:53:41.982] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BenyaMoulain
+[10Dec2024 01:54:20.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thefuuu1 lost connection: Disconnected
+[10Dec2024 01:54:20.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 left the game
+[10Dec2024 01:54:20.655] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client thefuuu1

@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26",
+    "name": "pexos",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

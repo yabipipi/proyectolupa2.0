@@ -397,3 +397,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 04:43:38.899] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BenyaMoulain (18)
 [15Dec2024 04:43:38.900] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BenyaMoulain
 [15Dec2024 04:50:20.128] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/45919, l='ServerLevel[world]', x=1162.30, y=107.05, z=-966.28] died, message: 'Nitwit was shot by Stymphalian Bird'
+[15Dec2024 04:51:43.574] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/45932, l='ServerLevel[world]', x=1203.64, y=108.92, z=-945.57] died, message: 'Nitwit was shot by Stymphalian Bird'
+[15Dec2024 04:52:05.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/45921, l='ServerLevel[world]', x=1189.28, y=113.00, z=-933.25] died, message: 'Butcher was shot by Stymphalian Bird'
+[15Dec2024 04:52:21.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain has made the advancement [Herc was on a Roll!]
+[15Dec2024 04:54:43.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BenyaMoulain lost connection: Disconnected
+[15Dec2024 04:54:43.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain left the game
+[15Dec2024 04:54:43.029] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BenyaMoulain
+[15Dec2024 04:56:04.868] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@316f6a25[id=<null>,name=BenyaMoulain,properties={},legacy=false] (/127.238.103.39:47165) lost connection: Disconnected
+[15Dec2024 04:57:04.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BenyaMoulain[/127.238.103.39:45769] logged in with entity id 52256 at (1173.699999988079, 92.0, -921.2274589446698)
+[15Dec2024 04:57:04.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain joined the game
+[15Dec2024 04:57:04.867] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BenyaMoulain (18)
+[15Dec2024 04:57:04.868] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BenyaMoulain
+[15Dec2024 04:58:10.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made pexos a server operator
+[15Dec2024 04:58:15.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Teleported pexos to BenyaMoulain]

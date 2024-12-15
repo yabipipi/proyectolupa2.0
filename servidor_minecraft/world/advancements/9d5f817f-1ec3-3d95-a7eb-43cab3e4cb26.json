@@ -9111,6 +9111,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2024-12-15 04:16:26 +0000",
+      "minecraft:cow": "2024-12-15 06:31:12 +0000",
       "minecraft:chicken": "2024-12-01 09:21:15 +0000"
     },
     "done": false
@@ -13273,6 +13274,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2024-12-15 06:34:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_arm": {
     "criteria": {
       "has_item": "2024-12-15 05:59:59 +0000"
@@ -13282,6 +13289,12 @@
   "create:copper": {
     "criteria": {
       "0": "2024-12-15 05:58:01 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2024-12-15 06:35:06 +0000"
     },
     "done": true
   },

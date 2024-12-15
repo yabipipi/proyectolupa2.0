@@ -7348,5 +7348,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2024-12-15 03:27:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2024-12-15 03:27:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-15 03:34:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

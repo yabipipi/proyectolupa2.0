@@ -314,3 +314,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 18:56:34.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos has made the advancement [Bonfire Lit]
 [15Dec2024 19:03:11.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Set own game mode to Creative Mode]
 [15Dec2024 19:05:36.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Set own game mode to Survival Mode]
+[15Dec2024 19:17:12.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thefuuu1[/127.152.208.13:57707] logged in with entity id 13284 at (829.9880530819801, 73.0, -504.59389352734274)
+[15Dec2024 19:17:12.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 joined the game
+[15Dec2024 19:17:14.110] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of thefuuu1 (18)
+[15Dec2024 19:17:14.112] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to thefuuu1
+[15Dec2024 19:24:31.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pexos lost connection: Disconnected
+[15Dec2024 19:24:31.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos left the game
+[15Dec2024 19:24:31.343] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pexos
+[15Dec2024 19:25:10.893] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77ddf949[id=<null>,name=pexos,properties={},legacy=false] (/127.13.166.204:45197) lost connection: Disconnected

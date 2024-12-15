@@ -13745,15 +13745,15 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2024-12-15 18:56:34 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/stove": {
     "criteria": {
       "has_campfire": "2024-12-15 18:55:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-12-15 18:56:34 +0000"
     },
     "done": true
   },

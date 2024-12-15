@@ -9170,5 +9170,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2024-12-15 19:29:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

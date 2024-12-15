@@ -9022,3 +9022,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 08:52:13.023] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with BenyaMoulain
 [15Dec2024 08:52:13.023] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with BenyaMoulain
 [15Dec2024 08:52:13.024] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BenyaMoulain
+[15Dec2024 08:55:57.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 08:55:57.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 09:00:57.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 09:00:57.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

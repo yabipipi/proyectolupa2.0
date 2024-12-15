@@ -354,3 +354,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 20:46:39.851] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client thefuuu1
 [15Dec2024 21:19:24.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Set the time to 0]
 [15Dec2024 21:31:32.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Set the time to 0]
+[15Dec2024 21:38:22.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pexos lost connection: Disconnected
+[15Dec2024 21:38:22.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos left the game
+[15Dec2024 21:38:22.494] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pexos
+[15Dec2024 21:38:30.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Dec2024 21:38:30.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Dec2024 21:38:30.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Dec2024 21:38:30.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Dec2024 21:38:30.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Dec2024 21:38:31.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Dec2024 21:38:31.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Dec2024 21:38:31.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Dec2024 21:38:31.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Dec2024 21:38:31.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Dec2024 21:38:31.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Dec2024 21:38:31.470] [Server thread/INFO] [Framework/]: Unloading server configs...
+[15Dec2024 21:38:31.470] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[15Dec2024 21:38:31.474] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

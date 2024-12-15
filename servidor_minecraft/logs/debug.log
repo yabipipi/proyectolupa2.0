@@ -8815,3 +8815,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 08:00:48.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Teleported pexos to BenyaMoulain]
 [15Dec2024 08:00:57.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Dec2024 08:00:57.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 08:04:32.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Set the time to 0]
+[15Dec2024 08:04:41.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Set the weather to clear]
+[15Dec2024 08:05:12.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Teleported pexos to BenyaMoulain]
+[15Dec2024 08:05:57.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 08:05:57.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 08:06:06.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Teleported pexos to BenyaMoulain]
+[15Dec2024 08:10:57.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 08:10:57.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 08:15:57.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 08:15:57.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 08:20:57.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 08:20:57.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

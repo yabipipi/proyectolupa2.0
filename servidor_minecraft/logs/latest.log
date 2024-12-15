@@ -341,3 +341,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 20:01:36.159] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of thefuuu1 (18)
 [15Dec2024 20:01:36.160] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to thefuuu1
 [15Dec2024 20:10:20.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 has made the advancement [Hunt and Gather]
+[15Dec2024 20:36:28.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pexos lost connection: Disconnected
+[15Dec2024 20:36:28.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos left the game
+[15Dec2024 20:36:28.694] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pexos
+[15Dec2024 20:37:03.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pexos[/127.13.166.204:33005] logged in with entity id 66722 at (764.499544937361, 61.0, -430.41512250967475)
+[15Dec2024 20:37:03.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos joined the game
+[15Dec2024 20:37:03.803] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pexos (18)
+[15Dec2024 20:37:03.804] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pexos
+[15Dec2024 20:40:50.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 has made the advancement [Cover Me with Diamonds]
+[15Dec2024 20:46:39.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thefuuu1 lost connection: Disconnected
+[15Dec2024 20:46:39.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 left the game
+[15Dec2024 20:46:39.851] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client thefuuu1

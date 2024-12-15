@@ -6324,3 +6324,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 18:50:36.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Set the time to 0]
 [15Dec2024 18:51:06.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Dec2024 18:51:06.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 18:56:06.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 18:56:06.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 18:56:34.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos has made the advancement [Bonfire Lit]
+[15Dec2024 19:01:06.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 19:01:06.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 19:03:11.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Set own game mode to Creative Mode]

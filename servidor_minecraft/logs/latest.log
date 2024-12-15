@@ -311,3 +311,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 18:47:36.331] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pexos (18)
 [15Dec2024 18:47:36.332] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pexos
 [15Dec2024 18:50:36.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Set the time to 0]
+[15Dec2024 18:56:34.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos has made the advancement [Bonfire Lit]
+[15Dec2024 19:03:11.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Set own game mode to Creative Mode]

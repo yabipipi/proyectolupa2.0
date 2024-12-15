@@ -438,3 +438,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 07:06:45.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Teleported BenyaMoulain to pexos]
 [15Dec2024 07:10:12.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Set the time to 0]
 [15Dec2024 07:11:29.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos has made the advancement [Complex Curiosities]
+[15Dec2024 07:32:58.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pexos lost connection: Disconnected
+[15Dec2024 07:32:58.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos left the game
+[15Dec2024 07:32:58.997] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pexos
+[15Dec2024 07:33:25.919] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51e8290c[id=<null>,name=pexos,properties={},legacy=false] (/127.130.85.24:55371) lost connection: Disconnected
+[15Dec2024 07:33:48.724] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1848cc29[id=<null>,name=pexos,properties={},legacy=false] (/127.130.85.24:55133) lost connection: Disconnected
+[15Dec2024 07:33:59.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pexos[/127.130.85.24:42217] logged in with entity id 104186 at (822.0569578628543, 64.0, -431.66917336833717)
+[15Dec2024 07:33:59.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos joined the game
+[15Dec2024 07:34:00.061] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pexos (18)
+[15Dec2024 07:34:00.063] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pexos
+[15Dec2024 07:43:34.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Set the time to 0]

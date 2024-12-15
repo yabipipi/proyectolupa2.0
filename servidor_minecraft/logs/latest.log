@@ -462,3 +462,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 08:06:06.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Teleported pexos to BenyaMoulain]
 [15Dec2024 08:27:13.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Set the time to 0]
 [15Dec2024 08:37:08.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Teleported pexos to BenyaMoulain]
+[15Dec2024 08:51:09.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BenyaMoulain lost connection: Disconnected
+[15Dec2024 08:51:09.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain left the game
+[15Dec2024 08:51:09.630] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BenyaMoulain
+[15Dec2024 08:52:12.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BenyaMoulain[/127.238.103.39:35459] logged in with entity id 130708 at (825.1906709353449, 51.0, -519.559579440239)
+[15Dec2024 08:52:12.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain joined the game
+[15Dec2024 08:52:13.023] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BenyaMoulain (18)
+[15Dec2024 08:52:13.024] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BenyaMoulain

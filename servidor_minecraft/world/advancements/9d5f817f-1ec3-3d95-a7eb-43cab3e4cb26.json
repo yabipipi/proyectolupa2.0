@@ -13720,5 +13720,29 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/lime_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-15 08:41:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_lime_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-15 08:41:58 +0000"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2024-12-15 08:49:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/lime_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-15 08:41:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

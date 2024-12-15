@@ -8387,6 +8387,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-15 06:26:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 05:09:48 +0000"
@@ -8885,6 +8891,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2024-12-15 06:21:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2024-12-15 05:43:49 +0000"
@@ -9086,6 +9098,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2024-12-15 05:41:02 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-12-15 06:26:06 +0000"
     },
     "done": true
   },

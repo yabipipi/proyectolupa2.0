@@ -13405,6 +13405,12 @@
     },
     "done": true
   },
+  "create:deployer": {
+    "criteria": {
+      "0": "2024-12-15 06:25:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2024-12-15 05:58:01 +0000"

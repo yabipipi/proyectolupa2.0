@@ -389,3 +389,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 04:26:37.374] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client imtokkie
 [15Dec2024 04:29:49.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain has made the advancement [The Parrots and the Bats]
 [15Dec2024 04:30:09.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos fell from a high place
+[15Dec2024 04:43:14.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BenyaMoulain lost connection: Disconnected
+[15Dec2024 04:43:14.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain left the game
+[15Dec2024 04:43:14.626] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BenyaMoulain
+[15Dec2024 04:43:38.611] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BenyaMoulain[/127.238.103.39:40021] logged in with entity id 43328 at (744.3957967357246, 69.0, -641.137040825625)
+[15Dec2024 04:43:38.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain joined the game
+[15Dec2024 04:43:38.899] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BenyaMoulain (18)
+[15Dec2024 04:43:38.900] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BenyaMoulain
+[15Dec2024 04:50:20.128] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/45919, l='ServerLevel[world]', x=1162.30, y=107.05, z=-966.28] died, message: 'Nitwit was shot by Stymphalian Bird'

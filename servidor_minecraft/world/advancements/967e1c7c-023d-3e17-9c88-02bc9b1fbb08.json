@@ -8957,6 +8957,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-15 08:40:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2024-12-15 05:43:49 +0000"

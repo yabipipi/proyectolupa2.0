@@ -431,3 +431,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 05:38:55.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Teleported pexos to BenyaMoulain]
 [15Dec2024 05:41:50.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos has made the advancement [Who is Cutting Onions?]
 [15Dec2024 05:47:11.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain was slain by pexos
+[15Dec2024 05:54:30.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain has reached the goal [Workout Session]
+[15Dec2024 05:59:55.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos has made the advancement [The Brass Age]

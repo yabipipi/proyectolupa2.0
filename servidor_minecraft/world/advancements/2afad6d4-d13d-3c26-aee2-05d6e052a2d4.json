@@ -7324,9 +7324,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/get_rich_soil": {
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
-      "get_rich_soil": "2024-12-10 01:26:14 +0000"
+      "leafcutter_ant_pupa": "2024-12-10 01:10:22 +0000"
     },
     "done": true
   },
@@ -7342,9 +7342,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+  "farmersdelight:main/get_rich_soil": {
     "criteria": {
-      "leafcutter_ant_pupa": "2024-12-10 01:10:22 +0000"
+      "get_rich_soil": "2024-12-10 01:26:14 +0000"
     },
     "done": true
   },

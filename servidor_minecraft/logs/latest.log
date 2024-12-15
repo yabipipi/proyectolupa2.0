@@ -352,3 +352,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 20:46:39.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thefuuu1 lost connection: Disconnected
 [15Dec2024 20:46:39.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 left the game
 [15Dec2024 20:46:39.851] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client thefuuu1
+[15Dec2024 21:19:24.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Set the time to 0]
+[15Dec2024 21:31:32.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Set the time to 0]

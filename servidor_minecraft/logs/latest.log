@@ -410,3 +410,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 04:57:04.868] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BenyaMoulain
 [15Dec2024 04:58:10.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made pexos a server operator
 [15Dec2024 04:58:15.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Teleported pexos to BenyaMoulain]
+[15Dec2024 05:12:48.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain has made the advancement [Diamonds!]
+[15Dec2024 05:12:58.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos has made the advancement [Diamonds!]
+[15Dec2024 05:18:20.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain was slain by Zombie
+[15Dec2024 05:18:31.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Teleported BenyaMoulain to pexos]
+[15Dec2024 05:25:11.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain was struck with lightning by Lightning Dragon
+[15Dec2024 05:25:40.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Teleported BenyaMoulain to pexos]
+[15Dec2024 05:27:21.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Set the time to 1000]
+[15Dec2024 05:31:08.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos was slain by Zombie
+[15Dec2024 05:32:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos has made the advancement [Alex's Caves]
+[15Dec2024 05:32:41.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos has made the advancement [It Belongs in a Museum]
+[15Dec2024 05:37:17.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pexos lost connection: Disconnected
+[15Dec2024 05:37:17.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos left the game
+[15Dec2024 05:37:17.330] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pexos
+[15Dec2024 05:37:28.172] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@62d11c9a[id=<null>,name=pexos,properties={},legacy=false] (/127.130.85.24:41123) lost connection: Disconnected
+[15Dec2024 05:37:39.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pexos[/127.130.85.24:51133] logged in with entity id 66545 at (1006.251574959116, -13.0, -1181.3326591224832)
+[15Dec2024 05:37:39.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos joined the game
+[15Dec2024 05:37:39.715] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pexos (18)
+[15Dec2024 05:37:39.715] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pexos
+[15Dec2024 05:38:55.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Teleported pexos to BenyaMoulain]

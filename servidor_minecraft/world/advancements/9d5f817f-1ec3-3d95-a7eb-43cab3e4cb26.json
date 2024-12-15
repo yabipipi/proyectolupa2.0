@@ -13540,6 +13540,12 @@
     },
     "done": true
   },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2024-12-15 07:15:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2024-12-15 05:57:21 +0000"
@@ -13687,6 +13693,12 @@
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2024-12-15 05:58:01 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-12-15 07:11:29 +0000"
     },
     "done": true
   },

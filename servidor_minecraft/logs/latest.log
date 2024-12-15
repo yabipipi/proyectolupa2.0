@@ -333,3 +333,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 19:36:24.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 joined the game
 [15Dec2024 19:36:25.111] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of thefuuu1 (18)
 [15Dec2024 19:36:25.113] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to thefuuu1
+[15Dec2024 20:01:24.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thefuuu1 lost connection: Disconnected
+[15Dec2024 20:01:24.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 left the game
+[15Dec2024 20:01:24.691] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client thefuuu1
+[15Dec2024 20:01:35.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thefuuu1[/127.152.208.13:52105] logged in with entity id 31956 at (915.7189321194679, 13.0, -339.6974871854639)
+[15Dec2024 20:01:35.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 joined the game
+[15Dec2024 20:01:36.159] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of thefuuu1 (18)
+[15Dec2024 20:01:36.160] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to thefuuu1

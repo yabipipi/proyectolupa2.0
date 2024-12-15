@@ -6918,3 +6918,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 19:36:25.113] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to thefuuu1
 [15Dec2024 19:41:06.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Dec2024 19:41:06.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 19:46:06.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 19:46:06.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 19:51:06.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 19:51:06.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

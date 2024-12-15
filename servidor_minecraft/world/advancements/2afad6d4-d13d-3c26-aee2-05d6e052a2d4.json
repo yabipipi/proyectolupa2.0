@@ -1502,6 +1502,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-01 09:18:34 +0000",
       "cooked_mutton": "2024-12-01 06:49:49 +0000",
+      "baked_potato": "2024-12-15 04:00:51 +0000",
       "potato": "2024-12-07 09:11:46 +0000",
       "melon_slice": "2024-10-30 04:07:37 +0000",
       "carrot": "2024-10-30 03:51:10 +0000"
@@ -7348,15 +7349,63 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-15 04:00:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bale": {
     "criteria": {
       "has_rice_panicle": "2024-12-15 03:27:21 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2024-12-15 03:59:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/rice": {
     "criteria": {
       "has_rice_panicle": "2024-12-15 03:27:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
     },
     "done": true
   },
@@ -7372,15 +7421,153 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2024-12-15 03:41:21 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/brown_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
       "ex": "2024-12-15 03:50:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-15 04:00:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-15 04:02:39 +0000"
     },
     "done": true
   },

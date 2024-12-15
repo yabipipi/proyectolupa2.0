@@ -7651,3 +7651,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 03:55:57.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Dec2024 03:55:57.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Dec2024 03:59:01.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos burned to death
+[15Dec2024 04:00:57.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 04:00:57.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 04:04:33.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos withered away whilst fighting BenyaMoulain
+[15Dec2024 04:05:57.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 04:05:57.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 04:10:57.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 04:10:57.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 04:15:57.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 04:15:57.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 04:20:57.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 04:20:57.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 04:21:08.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: imtokkie burned to death
+[15Dec2024 04:25:57.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 04:25:57.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 04:26:37.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: imtokkie lost connection: Disconnected
+[15Dec2024 04:26:37.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: imtokkie left the game
+[15Dec2024 04:26:37.374] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of imtokkie
+[15Dec2024 04:26:37.374] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client imtokkie
+[15Dec2024 04:29:49.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenyaMoulain has made the advancement [The Parrots and the Bats]
+[15Dec2024 04:30:09.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos fell from a high place
+[15Dec2024 04:30:57.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 04:30:57.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 04:35:57.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 04:35:57.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

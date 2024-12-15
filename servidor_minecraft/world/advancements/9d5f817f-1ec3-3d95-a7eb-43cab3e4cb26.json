@@ -9108,6 +9108,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2024-12-15 04:16:26 +0000",
       "minecraft:chicken": "2024-12-01 09:21:15 +0000"
     },
     "done": false
@@ -12031,6 +12032,24 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-10 01:46:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/magenta_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-15 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-15 04:16:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_magenta": {
+    "criteria": {
+      "has_item": "2024-12-15 03:59:38 +0000"
     },
     "done": true
   },

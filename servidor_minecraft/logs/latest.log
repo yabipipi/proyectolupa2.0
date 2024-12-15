@@ -340,3 +340,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [15Dec2024 20:01:35.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 joined the game
 [15Dec2024 20:01:36.159] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of thefuuu1 (18)
 [15Dec2024 20:01:36.160] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to thefuuu1
+[15Dec2024 20:10:20.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 has made the advancement [Hunt and Gather]

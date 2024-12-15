@@ -3939,6 +3939,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2024-12-15 06:59:58 +0000",
       "tomato": "2024-12-01 06:04:44 +0000",
       "rice": "2024-12-01 09:16:22 +0000",
       "kelp": "2024-12-03 00:21:26 +0000",
@@ -13334,6 +13335,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/speedometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-15 06:53:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/brass_funnel": {
     "criteria": {
       "has_item": "2024-12-15 05:57:21 +0000"
@@ -13496,6 +13503,13 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-15 07:00:19 +0000",
+      "1": "2024-12-15 07:00:31 +0000"
+    },
+    "done": true
+  },
   "create:rose_quartz": {
     "criteria": {
       "0": "2024-12-15 06:02:19 +0000"
@@ -13631,6 +13645,12 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2024-12-15 05:58:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2024-12-15 06:58:41 +0000"
     },
     "done": true
   },

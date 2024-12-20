@@ -13787,5 +13787,17 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2024-12-20 22:34:18 +0000"
+    },
+    "done": true
+  },
+  "pointblank:recipes/misc/printer": {
+    "criteria": {
+      "has_iron": "2024-12-20 22:31:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

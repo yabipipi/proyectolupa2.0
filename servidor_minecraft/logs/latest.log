@@ -322,3 +322,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [20Dec2024 22:27:01.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26
 [20Dec2024 22:27:02.058] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26
 [20Dec2024 22:27:02.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pexos (9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26) successfully connected to voice chat
+[20Dec2024 22:35:10.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Set the time to 0]
+[20Dec2024 22:39:29.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thefuuu1[/127.152.208.13:55413] logged in with entity id 20673 at (828.6636646102927, 73.0, -510.1715242983275)
+[20Dec2024 22:39:29.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 joined the game
+[20Dec2024 22:39:31.730] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of thefuuu1 (18)
+[20Dec2024 22:39:31.730] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to thefuuu1
+[20Dec2024 22:39:38.374] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: unitytranslate:set_current_language
+[20Dec2024 22:39:38.997] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fd3b9f39-f73a-3dba-8b09-80d7116f44f9
+[20Dec2024 22:39:39.997] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fd3b9f39-f73a-3dba-8b09-80d7116f44f9
+[20Dec2024 22:39:39.998] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player thefuuu1 (fd3b9f39-f73a-3dba-8b09-80d7116f44f9) successfully connected to voice chat
+[20Dec2024 22:40:57.787] [Netty Epoll Server IO #3/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: unitytranslate:set_used_languages
+[20Dec2024 22:41:51.331] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: unitytranslate:set_current_language
+[20Dec2024 22:42:40.550] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: unitytranslate:set_used_languages
+[20Dec2024 22:42:45.798] [Netty Epoll Server IO #3/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: unitytranslate:set_used_languages

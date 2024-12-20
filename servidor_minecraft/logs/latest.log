@@ -363,3 +363,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [20Dec2024 23:14:04.579] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26
 [20Dec2024 23:14:05.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26
 [20Dec2024 23:14:05.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pexos (9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26) successfully connected to voice chat
+[20Dec2024 23:26:17.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thefuuu1> zzzzzzzzzz
+[20Dec2024 23:26:31.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pexos lost connection: Disconnected
+[20Dec2024 23:26:31.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos left the game
+[20Dec2024 23:26:31.760] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pexos
+[20Dec2024 23:26:50.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pexos[/127.118.143.38:44923] logged in with entity id 77784 at (738.6897095559918, 65.0, -433.85471965646263)
+[20Dec2024 23:26:50.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos joined the game
+[20Dec2024 23:26:50.305] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pexos (18)
+[20Dec2024 23:26:50.307] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pexos
+[20Dec2024 23:26:50.380] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: unitytranslate:set_current_language
+[20Dec2024 23:26:59.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26
+[20Dec2024 23:27:01.180] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26
+[20Dec2024 23:27:01.181] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pexos (9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26) successfully connected to voice chat
+[20Dec2024 23:34:18.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 has made the advancement [Ant-Agonizer]

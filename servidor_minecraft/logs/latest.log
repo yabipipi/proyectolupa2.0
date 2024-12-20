@@ -349,3 +349,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [20Dec2024 23:08:55.839] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26
 [20Dec2024 23:08:56.853] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26
 [20Dec2024 23:08:56.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pexos (9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26) successfully connected to voice chat
+[20Dec2024 23:13:39.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26 timed out
+[20Dec2024 23:13:39.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player pexos
+[20Dec2024 23:13:39.347] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to pexos
+[20Dec2024 23:13:46.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pexos lost connection: Timed out
+[20Dec2024 23:13:46.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos left the game
+[20Dec2024 23:13:46.307] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pexos
+[20Dec2024 23:13:53.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pexos[/127.118.143.38:39299] logged in with entity id 65119 at (824.3456344655317, 73.0, -513.8135350543481)
+[20Dec2024 23:13:53.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos joined the game
+[20Dec2024 23:13:53.969] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pexos (18)
+[20Dec2024 23:13:53.970] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pexos
+[20Dec2024 23:13:53.985] [Netty Epoll Server IO #0/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: unitytranslate:set_current_language
+[20Dec2024 23:14:04.579] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26
+[20Dec2024 23:14:05.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26
+[20Dec2024 23:14:05.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pexos (9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26) successfully connected to voice chat

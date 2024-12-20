@@ -13763,6 +13763,12 @@
     },
     "done": true
   },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2024-12-15 20:43:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2024-12-15 20:48:49 +0000"
@@ -13778,12 +13784,6 @@
   "create:recipes/misc/crafting/appliances/linked_controller": {
     "criteria": {
       "has_item": "2024-12-15 20:50:07 +0000"
-    },
-    "done": true
-  },
-  "create:contraption_actors": {
-    "criteria": {
-      "0": "2024-12-15 20:43:32 +0000"
     },
     "done": true
   },

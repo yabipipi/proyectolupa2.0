@@ -13787,6 +13787,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2024-12-20 22:47:06 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2024-12-20 22:34:18 +0000"

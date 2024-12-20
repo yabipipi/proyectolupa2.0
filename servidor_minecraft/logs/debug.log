@@ -6987,3 +6987,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [20Dec2024 22:41:51.331] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: unitytranslate:set_current_language
 [20Dec2024 22:42:40.550] [Netty Epoll Server IO #4/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: unitytranslate:set_used_languages
 [20Dec2024 22:42:45.798] [Netty Epoll Server IO #3/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: unitytranslate:set_used_languages
+[20Dec2024 22:44:08.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 22:44:08.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 22:46:18.626] [Worker-Main-8/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[20Dec2024 22:46:20.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2762ms or 55 ticks behind
+[20Dec2024 22:46:49.548] [Worker-Main-8/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[20Dec2024 22:47:06.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos has made the advancement [Fetch Me Their Souls!]
+[20Dec2024 22:47:43.329] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Dec2024 22:48:54.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pexos lost connection: Disconnected
+[20Dec2024 22:48:54.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos left the game
+[20Dec2024 22:48:54.213] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of pexos
+[20Dec2024 22:48:54.214] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pexos
+[20Dec2024 22:49:11.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 22:49:11.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 22:54:11.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 22:54:11.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 22:59:11.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 22:59:11.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

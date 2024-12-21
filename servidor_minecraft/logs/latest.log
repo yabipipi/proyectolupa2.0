@@ -334,3 +334,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [21Dec2024 17:55:33.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fd3b9f39-f73a-3dba-8b09-80d7116f44f9
 [21Dec2024 17:55:33.215] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player thefuuu1 (fd3b9f39-f73a-3dba-8b09-80d7116f44f9) successfully connected to voice chat
 [21Dec2024 17:55:52.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pexos: Teleported pexos to thefuuu1]
+[21Dec2024 18:05:50.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pexos> zzzzz
+[21Dec2024 18:06:05.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thefuuu1> esta amaneciendo ya asdjfajksdjfa
+[21Dec2024 18:13:05.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos was blown up by Creeper
+[21Dec2024 18:13:15.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thefuuu1> asdlkfajsdlñfkajsdf
+[21Dec2024 18:16:39.463] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1815390988, path: 4b3252b7-94b4-441a-987f-49dbd2a5095d/air, elements: {}} attempted to update empty stack 0 air
+[21Dec2024 18:16:39.464] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 956351203, path: 4b3252b7-94b4-441a-987f-49dbd2a5095d/air, elements: {}} attempted to update empty stack 0 air
+[21Dec2024 18:19:57.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pexos> zzzzz
+[21Dec2024 18:32:33.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pexos> zz
+[21Dec2024 18:32:34.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thefuuu1 lost connection: Disconnected
+[21Dec2024 18:32:34.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 left the game
+[21Dec2024 18:32:34.968] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client thefuuu1
+[21Dec2024 18:33:39.907] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5371bd0a[id=<null>,name=thefuuu1,properties={},legacy=false] (/127.152.208.13:38785) lost connection: Disconnected
+[21Dec2024 18:33:49.435] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thefuuu1[/127.152.208.13:39215] logged in with entity id 47494 at (895.6999999880791, 20.0, -323.69999998807907)
+[21Dec2024 18:33:49.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 joined the game
+[21Dec2024 18:33:49.653] [Netty Epoll Server IO #0/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: unitytranslate:set_used_languages
+[21Dec2024 18:33:49.655] [Netty Epoll Server IO #0/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: unitytranslate:set_current_language
+[21Dec2024 18:33:49.670] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of thefuuu1 (18)
+[21Dec2024 18:33:49.672] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to thefuuu1
+[21Dec2024 18:33:55.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fd3b9f39-f73a-3dba-8b09-80d7116f44f9
+[21Dec2024 18:33:56.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fd3b9f39-f73a-3dba-8b09-80d7116f44f9
+[21Dec2024 18:33:56.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player thefuuu1 (fd3b9f39-f73a-3dba-8b09-80d7116f44f9) successfully connected to voice chat

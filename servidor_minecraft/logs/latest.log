@@ -38,3 +38,5 @@
 [21Dec2024 00:19:11.263] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fd3b9f39-f73a-3dba-8b09-80d7116f44f9
 [21Dec2024 00:19:12.263] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fd3b9f39-f73a-3dba-8b09-80d7116f44f9
 [21Dec2024 00:19:12.264] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player thefuuu1 (fd3b9f39-f73a-3dba-8b09-80d7116f44f9) successfully connected to voice chat
+[21Dec2024 00:35:50.018] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[21Dec2024 00:43:22.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 has made the advancement [Voluntary Exile]

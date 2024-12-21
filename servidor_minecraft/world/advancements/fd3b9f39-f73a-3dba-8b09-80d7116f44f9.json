@@ -2479,6 +2479,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-21 00:43:19 +0000",
       "minecraft:skeleton": "2024-10-31 18:17:27 +0000",
       "minecraft:spider": "2024-10-31 19:04:36 +0000",
       "minecraft:creeper": "2024-10-31 18:31:24 +0000",
@@ -10049,6 +10050,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-21 00:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-21 00:43:22 +0000"
     },
     "done": true
   },

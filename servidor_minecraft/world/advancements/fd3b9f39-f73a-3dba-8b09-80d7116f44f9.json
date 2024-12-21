@@ -2483,6 +2483,7 @@
       "minecraft:skeleton": "2024-10-31 18:17:27 +0000",
       "minecraft:spider": "2024-10-31 19:04:36 +0000",
       "minecraft:creeper": "2024-10-31 18:31:24 +0000",
+      "minecraft:witch": "2024-12-21 00:46:24 +0000",
       "minecraft:zombie": "2024-10-30 04:18:06 +0000"
     },
     "done": false
@@ -10053,9 +10054,57 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/single_potion": {
+    "criteria": {
+      "has_planks": "2024-12-21 00:46:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-21 00:43:22 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/three_potions": {
+    "criteria": {
+      "has_planks": "2024-12-21 00:46:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 00:45:28 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pair_of_potions": {
+    "criteria": {
+      "has_planks": "2024-12-21 00:46:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2024-12-21 00:45:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2024-12-21 00:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-21 00:45:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 00:45:40 +0000"
     },
     "done": true
   },

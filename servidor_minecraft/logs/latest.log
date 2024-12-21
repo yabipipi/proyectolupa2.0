@@ -40,3 +40,23 @@
 [21Dec2024 00:19:12.264] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player thefuuu1 (fd3b9f39-f73a-3dba-8b09-80d7116f44f9) successfully connected to voice chat
 [21Dec2024 00:35:50.018] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
 [21Dec2024 00:43:22.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 has made the advancement [Voluntary Exile]
+[21Dec2024 01:05:05.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thefuuu1 lost connection: Disconnected
+[21Dec2024 01:05:05.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 left the game
+[21Dec2024 01:05:05.770] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client thefuuu1
+[21Dec2024 01:06:25.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pexos lost connection: Disconnected
+[21Dec2024 01:06:25.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos left the game
+[21Dec2024 01:06:25.664] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pexos
+[21Dec2024 01:06:34.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Dec2024 01:06:34.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Dec2024 01:06:34.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Dec2024 01:06:34.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Dec2024 01:06:35.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Dec2024 01:06:35.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Dec2024 01:06:35.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Dec2024 01:06:35.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Dec2024 01:06:35.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Dec2024 01:06:35.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Dec2024 01:06:35.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Dec2024 01:06:35.570] [Server thread/INFO] [Framework/]: Unloading server configs...
+[21Dec2024 01:06:35.571] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[21Dec2024 01:06:35.574] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

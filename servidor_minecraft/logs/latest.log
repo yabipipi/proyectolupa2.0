@@ -376,3 +376,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [20Dec2024 23:27:01.180] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26
 [20Dec2024 23:27:01.181] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pexos (9d5f817f-1ec3-3d95-a7eb-43cab3e4cb26) successfully connected to voice chat
 [20Dec2024 23:34:18.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 has made the advancement [Ant-Agonizer]
+[20Dec2024 23:59:14.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos has made the advancement [Big Data]

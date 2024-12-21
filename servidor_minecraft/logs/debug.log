@@ -7637,3 +7637,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [20Dec2024 23:34:18.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thefuuu1 has made the advancement [Ant-Agonizer]
 [20Dec2024 23:39:11.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Dec2024 23:39:11.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 23:44:11.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 23:44:11.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 23:49:11.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 23:49:11.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 23:54:11.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 23:54:11.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 23:59:11.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 23:59:11.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 23:59:14.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pexos has made the advancement [Big Data]

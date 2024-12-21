@@ -8376,3 +8376,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [21Dec2024 00:19:12.264] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of thefuuu1 to connected: {disabled=false, disconnected=false, uuid=fd3b9f39-f73a-3dba-8b09-80d7116f44f9, name=thefuuu1, group=null}
 [21Dec2024 00:19:12.264] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player thefuuu1 (fd3b9f39-f73a-3dba-8b09-80d7116f44f9) successfully connected to voice chat
 [21Dec2024 00:19:12.417] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of thefuuu1: {disabled=false, disconnected=false, uuid=fd3b9f39-f73a-3dba-8b09-80d7116f44f9, name=thefuuu1, group=null}
+[21Dec2024 00:24:11.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 00:24:11.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 00:29:11.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 00:29:11.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 00:33:47.910] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 969828586 to 21
